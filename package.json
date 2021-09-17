@@ -1,0 +1,12 @@
+{
+  "name": "indika-indonesia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ady Rahmansyah",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.15"
+  }
+}
